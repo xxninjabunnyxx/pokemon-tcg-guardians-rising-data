@@ -1,0 +1,95 @@
+---
+id: sm2-70
+name: Barboach
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '60'
+types:
+- Fighting
+evolvesTo:
+- Whiscash
+attacks:
+- name: Hook
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: '10'
+  text: ''
+- name: Mud-Slap
+  cost:
+  - Fighting
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '20'
+  text: ''
+weaknesses:
+- type: Grass
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: sm2
+  name: Guardians Rising
+  series: Sun & Moon
+  printedTotal: 145
+  total: 180
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: GRI
+  releaseDate: 2017/05/05
+  updatedAt: 2022/10/11 21:39:00
+  images:
+    symbol: https://images.pokemontcg.io/sm2/symbol.png
+    logo: https://images.pokemontcg.io/sm2/logo.png
+number: '70'
+artist: sui
+rarity: Common
+flavorText: Its two whiskers provide a sensitive radar. Even in muddy waters, it can
+  detect its prey's location.
+nationalPokedexNumbers:
+- 339
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/sm2/70.png
+  large: https://images.pokemontcg.io/sm2/70_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/sm2-70
+  updatedAt: 2023/09/15
+  prices:
+    normal:
+      low: 0.03
+      mid: 0.15
+      high: 3.0
+      market: 0.09
+      directLow: 
+    reverseHolofoil:
+      low: 0.07
+      mid: 0.25
+      high: 2.0
+      market: 0.25
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/sm2-70
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 0.03
+    lowPrice: 0.02
+    trendPrice: 0.02
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.28
+    reverseHoloLow: 0.02
+    reverseHoloTrend: 0.25
+    lowPriceExPlus: 0.02
+    avg1: 0.02
+    avg7: 0.05
+    avg30: 0.04
+    reverseHoloAvg1: 0.28
+    reverseHoloAvg7: 0.18
+    reverseHoloAvg30: 0.22
